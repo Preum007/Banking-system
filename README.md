@@ -1,3 +1,13 @@
+## Project
+### Banking management system
+
+Here you can do
+- create account
+- deposite money
+- check balance
+- withdraw money
+
+  
 ```mermaid
 flowchart TD
     Start([Start])
